@@ -10,8 +10,8 @@ This is an app made to highlight the differences between cats and dogs. Hopefull
 
 ## Authors
 
-  *John Wood
-  *Jay Nayee
+  1. John Wood
+  2. Jay Nayee
 
 
 ## Liscence
