@@ -8,12 +8,11 @@
 This is an app made to highlight the differences between cats and dogs. Hopefully after reading this you will have an opinion on which pet you prefer.
 
 
-
-
 ## Authors
 
-John Wood
-Jay Nayee
+⋅⋅*John Wood
+⋅⋅*Jay Nayee
+
 
 ## Liscence
 
